@@ -174,9 +174,9 @@ include("includes.php");
 
  <polyline points="1110, 1800 1050, 1900"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--RIBEIROPOLIS <> CARIRA_CEN-->
 
- <polyline points="1130, 1800 1200, 1900"fill="none" stroke="#000000" stroke-width="8" /><!--RIBEIROPOLIS <> FREI PAULO-->
+ <polyline points="1130, 1800 1200, 1900"fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIROPOLIS <> FREI PAULO-->
 
- <polyline points="590, 1800 590,1700 1125,1700 1125,1800 "fill="none" stroke="#000000" stroke-width="8" /><!--RIBEIRA <> RIBEIROPOLIS-->
+ <polyline points="590, 1800 590,1700 1125,1700 1125,1800 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> RIBEIROPOLIS-->
 
 <?php
 
