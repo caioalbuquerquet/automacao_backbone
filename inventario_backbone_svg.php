@@ -5,7 +5,7 @@ include("includes.php");
 ?>
 <svg width="3700" height="4100">
 
-<polyline points="880,80 880,260" fill="none" stroke="#000000" stroke-width="8" />
+<polyline points="880,80 880,260" fill="none" stroke="#cccccc" stroke-width="8" />
  <polyline points="1100,80 860,260" fill="none" stroke="#cccccc" stroke-width="8" />
  <polyline points="990,80 870,260" fill="none" stroke="#cccccc" stroke-width="8" />
  <polyline points="760,270 1960,270 1960,970 1600,970" fill="none" stroke="#cccccc" stroke-width="8" />
