@@ -105,7 +105,7 @@ include("includes.php");
 
  <polyline points="1430,1450 1540,1650 1430,1650 1430,1450" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="1430,1450 585, 1785" fill="none" stroke="#cccccc" stroke-width="8" /><!--AJU <> RIBEIRA-->
+ <polyline points="1400,1450 1400,1600 585, 1605 585, 1785 " fill="none" stroke="#cccccc" stroke-width="8" /><!--AJU <> RIBEIRA-->
 
  <polyline points="1430,1650 1430,1720 2040,1720 2040,1800" fill="none" stroke="#cccccc" stroke-width="8" /><!--AJU_GVT <> SIRIRIZINHO-->
 
@@ -176,7 +176,7 @@ include("includes.php");
 
  <polyline points="1130, 1800 1200, 1900"fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIROPOLIS <> FREI PAULO-->
 
- <polyline points="590, 1800 590,1700 1125,1700 1125,1800 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> RIBEIROPOLIS-->
+ <polyline points="600, 1800 600,1700 1125,1700 1125,1800 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> RIBEIROPOLIS-->
 
 <?php
 
