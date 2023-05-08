@@ -25,15 +25,15 @@ include("includes.php");
 
  <polyline points="1100,950 1100,840 1390,840 1390,700 1540,620" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="1550,970 910,970 910,1270" fill="none" stroke="#cccccc" stroke-width="8" />
+ <polyline points="1550,970 910,970 910,1220 860,1220 815,1220 815,1250" fill="none" stroke="#cccccc" stroke-width="8" />
 
  <polyline points="900,1170 1200,1170" fill="none" stroke="#cccccc" stroke-width="8" />
 
  <polyline points="1550,1000 1550,1080 1210,1080 1210,1180" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="910,1290 910,1440 1440,1440" fill="none" stroke="#cccccc" stroke-width="8" />
+ <polyline points="830,1290 910,1440 1440,1440" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="1440,1440 2300,1440 2300,2630 910,2630" fill="none" stroke="#cccccc" stroke-width="8" />
+ <polyline points="1440,1490 2300,1490 2300,2630 910,2630" fill="none" stroke="#cccccc" stroke-width="8" />
 
  <polyline points="880,2620 880,2930 1630,2930 1630,2650" fill="none" stroke="#cccccc" stroke-width="8" />
 
@@ -83,7 +83,7 @@ include("includes.php");
 
  <polyline points="890,300 890,310 240,310 240,2590 910,2590 910,2650" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="900,1440 400,1440 400,900 750,900 750,1290 850,1290" fill="none" stroke="#000000" stroke-width="8" />
+ <polyline points="900,1440 400,1440 400,900 750,900 750,1290 850,1290" fill="none" stroke="#cccccc" stroke-width="8" />
 
  <polyline points="1500,1290 1600,1350 1810,1350 1810,1240 1600,1240 1500,1290" fill="none" stroke="#cccccc" stroke-width="8" />
 
@@ -91,7 +91,7 @@ include("includes.php");
 
  <polyline points="1630,1320 1700,1250" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="1180,1190 1510,1190 1510,1290 900,1290" fill="none" stroke="#cccccc" stroke-width="8" />
+ <polyline points="1180,1190 1510,1190 1510,1290 850,1290" fill="none" stroke="#cccccc" stroke-width="8" />
 
  <polyline points="640,900 640,500" fill="none" stroke="#cccccc" stroke-width="8" />
 
@@ -151,9 +151,9 @@ include("includes.php");
 
  <polyline points="1520, 2075 1520, 2230" fill="none" stroke="#cccccc" stroke-width="8" /> <!--PORTO DE FOLHA REPETIDORA <> PORTO DA FOLHA -->
 
- <polyline points="1520, 1650 1830, 1650" fill="none" stroke="#cccccc" stroke-width="8" /> <!--ARACAJU_TIM <> MORRO R6 -->
+ <polyline points="1520, 1650 1780, 1650 1780, 1700 1810, 1700" fill="none" stroke="#cccccc" stroke-width="8" /> <!--ARACAJU_TIM <> MORRO R6 -->
 
- <polyline points="1710, 1630 1830, 1565" fill="none" stroke="#cccccc" stroke-width="8" /> <!--URUBU <> LARANJEIRAS -->
+ <polyline points="1710, 1630 1830, 1630" fill="none" stroke="#cccccc" stroke-width="8" /> <!--URUBU <> LARANJEIRAS -->
 
  <polyline points="590, 1800 450, 1800"fill="none" stroke="#000000" stroke-width="8" /><!--RIBEIRA <> CAMPO DO BRITO-->
 
@@ -177,6 +177,12 @@ include("includes.php");
  <polyline points="1130, 1800 1200, 1900"fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIROPOLIS <> FREI PAULO-->
 
  <polyline points="600, 1800 600,1700 1125,1700 1125,1800 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> RIBEIROPOLIS-->
+
+ <polyline points="1210, 1360 1210, 1270" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- PIOS <> MARECHAL-->
+
+ <polyline points="1610, 1340 1610, 1430" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- PIOS <> MARECHAL-->
+
+ 
 
 <?php
 
