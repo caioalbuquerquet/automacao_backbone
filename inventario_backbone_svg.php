@@ -107,7 +107,7 @@ include("includes.php");
 
  <polyline points="1400,1450 1400,1600 585, 1605 585, 1785 " fill="none" stroke="#cccccc" stroke-width="8" /><!--AJU <> RIBEIRA-->
 
- <polyline points="1430,1650 1430,1720 2040,1720 2040,1800" fill="none" stroke="#cccccc" stroke-width="8" /><!--AJU_GVT <> SIRIRIZINHO-->
+ <polyline points="1430,1650 1430,1750 2040,1750 2040,1800" fill="none" stroke="#cccccc" stroke-width="8" /><!--AJU_GVT <> SIRIRIZINHO-->
 
  <polyline points="600, 1800 2050,1800" fill="none" stroke="#cccccc" stroke-width="8" /> <!--RIBEIRA <> SIRIRIZINHO-->
 

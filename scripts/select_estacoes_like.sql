@@ -8,7 +8,8 @@
 
 -- select * from automacao_estacoes where coordenada is NULL ORDER BY estacao asc limit 68
 
-SELECT * from automacao_estacoes where estacao like '%arapiraca%'
+SELECT * from automacao_estacoes where estacao like '%BARRA DE %'
+SELECT * from automacao_estacoes where estacao like '%pios%'
 
 --  select * FROM automacao_estacoes where estacao like '%LARANJEIR%'
 
