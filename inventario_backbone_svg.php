@@ -83,7 +83,14 @@ include("includes.php");
 
  <polyline points="890,300 890,310 240,310 240,2590 910,2590 910,2650" fill="none" stroke="#cccccc" stroke-width="8" />
 
+
+ <polyline points="900,1440 400,1440 400,900 750,900 600,1290 900,1290" fill="none" stroke="#000000" stroke-width="8" /><!--PROPRIA<>CAMPOALEGRE-->
+
+ <polyline points="740, 1170 900, 1170" fill="none" stroke="#ff0000" stroke-width="8" /><!--PALMEIRA VBO<>PALMEIRA-->
+
+
  <polyline points="900,1440 400,1440 400,900 750,900 750,1290 850,1290" fill="none" stroke="#000000" stroke-width="8" />
+
 
  <polyline points="1500,1290 1600,1350 1810,1350 1810,1240 1600,1240 1500,1290" fill="none" stroke="#cccccc" stroke-width="8" />
 
