@@ -163,14 +163,14 @@ include("includes.php");
 
  <polyline points="890, 1900 890, 2020"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--ITABAIANA <> PEDRA MOLE-->
 
- <polyline points="590, 1800  590, 2000 "fill="none" stroke="#000000" stroke-width="8" /><!--RIBEIRA <> LAGARTO_COL13-->
+ <polyline points="590, 1800  590, 2000 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> LAGARTO_COL13-->
 
- <polyline points="590, 2000 590, 2100"fill="none" stroke="#000000" stroke-width="8" /><!--LAGARTO_COL13 <> PEDRINHAS_CEN-->
- <polyline points="590, 2000 690, 2100"fill="none" stroke="#000000" stroke-width="8" /><!--LAGARTO_COL13 <> SALGADO_ZON-->
+ <polyline points="590, 2000 590, 2100"fill="none" stroke="#cccccc" stroke-width="8" /><!--LAGARTO_COL13 <> PEDRINHAS_CEN-->
+ <polyline points="590, 2000 690, 2100"fill="none" stroke="#cccccc" stroke-width="8" /><!--LAGARTO_COL13 <> SALGADO_ZON-->
 
- <polyline points="590, 2100 590, 2200"fill="none" stroke="#000000" stroke-width="8" /><!--PEDRINHAS_CEN <> ITABAIANINHA_CEN-->
+ <polyline points="590, 2100 590, 2200"fill="none" stroke="#cccccc" stroke-width="8" /><!--PEDRINHAS_CEN <> ITABAIANINHA_CEN-->
 
- <polyline points="690, 2100  690, 2300"fill="none" stroke="#000000" stroke-width="8" /><!--PEDRINHAS_CEN <> TOBIAS BARRETO-->
+ <polyline points="690, 2100  690, 2300"fill="none" stroke="#cccccc" stroke-width="8" /><!--PEDRINHAS_CEN <> TOBIAS BARRETO-->
 
  <polyline points="1110, 1800 1050, 1900"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--RIBEIROPOLIS <> CARIRA_CEN-->
 
