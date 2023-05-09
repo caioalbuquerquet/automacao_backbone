@@ -1,4 +1,29 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<head>
+
+<style>
+polygon:hover {
+fill: silver;
+stroke: blue;
+cursor:pointer;
+}
+
+rect:hover {
+fill: pink;
+stroke: #AAAAAA;
+cursor:pointer;
+}
+
+polyline:hover {
+  fill: none;
+  stroke: pink;
+  cursor:pointer;
+}
+</style>
+
+</head>
+
 <body>
 <?php
 include("includes.php");
@@ -31,7 +56,7 @@ include("includes.php");
 
  <polyline points="1550,1000 1550,1080 1210,1080 1210,1180" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="830,1290 910,1440 1440,1440" fill="none" stroke="#cccccc" stroke-width="8" />
+ <!-- <polyline points="830,1290 910,1440 1440,1440" fill="none" stroke="#000000" stroke-width="8" /> -->
 
  <polyline points="1440,1490 2300,1490 2300,2630 910,2630" fill="none" stroke="#cccccc" stroke-width="8" />
 
@@ -84,7 +109,7 @@ include("includes.php");
  <polyline points="890,300 890,310 240,310 240,2590 910,2590 910,2650" fill="none" stroke="#cccccc" stroke-width="8" />
 
 
- <polyline points="900,1440 400,1440 400,900 750,900 600,1290 900,1290" fill="none" stroke="#cccccc" stroke-width="8" /><!--PROPRIA<>CAMPOALEGRE-->
+ <polyline points="1385,1490 400,1490 400,900 750,900 600,1290 900,1290" fill="none" stroke="#cccccc" stroke-width="8" /><!--PROPRIA<>CAMPOALEGRE-->
 
  <polyline points="740, 1170 900, 1170" fill="none" stroke="#cccccc" stroke-width="8" /><!--PALMEIRA VBO<>PALMEIRA-->
  <polyline points="1500,1290 1600,1350 1810,1350 1810,1240 1600,1240 1500,1290" fill="none" stroke="#cccccc" stroke-width="8" />
@@ -162,27 +187,20 @@ include("includes.php");
  <polyline points="790, 1800 690, 1900"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--ITABAIANA <> MOITA BONITA-->
 
  <polyline points="790, 1800 890, 1900"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--ITABAIANA <> MACAMBIRA-->
-
  <polyline points="890, 1900 890, 2020"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--ITABAIANA <> PEDRA MOLE-->
-
  <polyline points="590, 1800  590, 2000 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> LAGARTO_COL13-->
-
  <polyline points="590, 2000 590, 2100"fill="none" stroke="#cccccc" stroke-width="8" /><!--LAGARTO_COL13 <> PEDRINHAS_CEN-->
  <polyline points="590, 2000 690, 2100"fill="none" stroke="#cccccc" stroke-width="8" /><!--LAGARTO_COL13 <> SALGADO_ZON-->
-
  <polyline points="590, 2100 590, 2200"fill="none" stroke="#cccccc" stroke-width="8" /><!--PEDRINHAS_CEN <> ITABAIANINHA_CEN-->
-
  <polyline points="690, 2100  690, 2300"fill="none" stroke="#cccccc" stroke-width="8" /><!--PEDRINHAS_CEN <> TOBIAS BARRETO-->
-
  <polyline points="1110, 1800 1050, 1900"fill="none" stroke="#CCCCCC" stroke-width="8" /><!--RIBEIROPOLIS <> CARIRA_CEN-->
-
  <polyline points="1130, 1800 1200, 1900"fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIROPOLIS <> FREI PAULO-->
-
  <polyline points="600, 1800 600,1700 1125,1700 1125,1800 "fill="none" stroke="#cccccc" stroke-width="8" /><!--RIBEIRA <> RIBEIROPOLIS-->
-
- <polyline points="1210, 1360 1210, 1270" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- PIOS <> MARECHAL-->
-
- <polyline points="1610, 1340 1610, 1430" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- PIOS <> MARECHAL-->
+ <polyline points="1130,1360 1130,1290" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- PIOS <> MARECHAL-->
+ <polyline points="1610, 1340 1610,1430" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- PIOS <> MARECHAL-->
+ <polyline points="860, 1290 820,1380" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- SM DOS CAMPOS <> BOCA DA MATA-->
+ <polyline points="880, 1290 920,1380" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- SM DOS CAMPOS <> MARIBONDO-->
+ <polyline points="1110, 1170 1110,1245 870,1245 870, 1290" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- ATALAIA <> SM DOS CAMPOS-->
 
  
 
