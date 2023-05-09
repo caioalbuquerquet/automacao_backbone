@@ -150,7 +150,11 @@ include("includes.php");
 
  <polyline points="440, 1900 440, 2100" fill="none" stroke="#cccccc" stroke-width="8" /><!--PURURUCA <> PARIPIRANGA-->
 
- <polyline points="2020, 1800 2200, 1800" fill="none" stroke="#cccccc" stroke-width="8" /> <!--SIRIRIZINHO <> SIRIRI_FJU-->
+ <polyline points="2020, 1800 2250, 1800" fill="none" stroke="#000000" stroke-width="8" /> <!--SIRIRIZINHO <> DIVINA PASTORA-->
+
+ <polyline points="750,700 840,600" fill="none" stroke="#000000" stroke-width="8" /> <!--BELO MONTE <> TRAIPU-->
+
+ <polyline points="2020, 1800 2250, 1700" fill="none" stroke="#000000" stroke-width="8" /> <!--SIRIRIZINHO <> SIRIRI-->
 
  <polyline points="2055, 1800 2130, 1970" fill="none" stroke="#cccccc" stroke-width="8" /> <!--SIRIRIZINHO <> MALHADOR-->
 
@@ -158,7 +162,7 @@ include("includes.php");
 
  <polyline points="2100, 1950 2220, 1950" fill="none" stroke="#cccccc" stroke-width="8" /> <!--MALHADOR <> AREIA BRANCA-->
 
- <polyline points="2100, 1950 2230,1880" fill="none" stroke="#cccccc" stroke-width="8" /> <!--MALHADOR <> RIACUELO -->
+ <polyline points="2100, 1950 2230,1880" fill="none" stroke="#000000" stroke-width="8" /> <!--MALHADOR <> RIACUELO -->
 
  <polyline points="1980, 1950 1980, 2080" fill="none" stroke="#cccccc" stroke-width="8" /> <!--CARMOPOLIS <> JAPARATUBA_CEN-->
 
