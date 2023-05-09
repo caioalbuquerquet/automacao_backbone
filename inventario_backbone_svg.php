@@ -154,6 +154,12 @@ include("includes.php");
 
  <polyline points="750,700 840,600" fill="none" stroke="#000000" stroke-width="8" /> <!--BELO MONTE <> TRAIPU-->
 
+ <polyline points="400,620 400,700" fill="none" stroke="#cccccc" stroke-width="8" /> <!--AGUA BRANCA <> ZEBU-->
+
+ <polyline points="400,700 400,800" fill="none" stroke="#cccccc" stroke-width="8" /> <!--AGUA BRANCA <> DELMIRO GOUVEIA-->
+
+ <polyline points="400,700 340,700 340,900 400,900" fill="none" stroke="#ff0000" stroke-width="8" /> <!--AGUA BRANCA <> DELMIRO GOUVEIA-->
+
  <polyline points="2020, 1800 2250, 1700" fill="none" stroke="#000000" stroke-width="8" /> <!--SIRIRIZINHO <> SIRIRI-->
 
  <polyline points="2055, 1800 2130, 1970" fill="none" stroke="#cccccc" stroke-width="8" /> <!--SIRIRIZINHO <> MALHADOR-->
