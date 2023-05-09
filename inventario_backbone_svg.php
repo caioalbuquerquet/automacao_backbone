@@ -50,7 +50,7 @@ include("includes.php");
 
  <polyline points="1100,950 1100,840 1390,840 1390,700 1540,620" fill="none" stroke="#cccccc" stroke-width="8" />
 
- <polyline points="1550,970 910,970 910,1230 815,1230 640,1230 640, 1260" fill="none" stroke="#cccccc" stroke-width="8" />
+ <polyline points="1550,950 910,950 870,1060 910,1230 815,1230 640,1230 640, 1260" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- RECIFE <> ARAPIRACA-->
 
  <polyline points="900,1170 1200,1170" fill="none" stroke="#cccccc" stroke-width="8" />
 
@@ -201,6 +201,9 @@ include("includes.php");
  <polyline points="860, 1290 820,1380" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- SM DOS CAMPOS <> BOCA DA MATA-->
  <polyline points="880, 1290 920,1380" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- SM DOS CAMPOS <> MARIBONDO-->
  <polyline points="1110, 1170 1110,1245 870,1245 870, 1290" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- ATALAIA <> SM DOS CAMPOS-->
+ <polyline points="1210,1065 1110,1065 1110,1030 1030,1030" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- UNIAO DOS PALMARES <> MURICI -->
+ <polyline points="1210,1100 1110,1100 1110,1150" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- UNIAO DOS PALMARES <> ATALAIA -->
+ <polyline points="1210,1082 970, 1082" fill="none" stroke="#cccccc" stroke-width="8" /> <!-- UNIAO DOS PALMARES <> CAPELA -->
 
  
 
