@@ -24,6 +24,8 @@ polyline:hover {
 
 </head>
 
+
+
 <body>
 <?php
 include("includes.php");
@@ -155,6 +157,8 @@ include("includes.php");
  <polyline points="2025, 1800 1960, 1980" fill="none" stroke="#cccccc" stroke-width="8" /> <!--SIRIRIZINHO <> CARMOPOLIS-->
 
  <polyline points="2100, 1950 2220, 1950" fill="none" stroke="#cccccc" stroke-width="8" /> <!--MALHADOR <> AREIA BRANCA-->
+
+ <polyline points="2100, 1950 2230,1880" fill="none" stroke="#cccccc" stroke-width="8" /> <!--MALHADOR <> RIACUELO -->
 
  <polyline points="1980, 1950 1980, 2080" fill="none" stroke="#cccccc" stroke-width="8" /> <!--CARMOPOLIS <> JAPARATUBA_CEN-->
 
