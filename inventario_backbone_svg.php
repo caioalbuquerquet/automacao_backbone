@@ -32,7 +32,6 @@ include("includes.php");
 ?>
 <svg width="3700" height="4100">
 
-<polyline points="880,80 880,260" fill="none" stroke="#cccccc" stroke-width="8" />
 
  <polyline points="1100,80 860,260" fill="none" stroke="#cccccc" stroke-width="8" />
 
