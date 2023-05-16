@@ -1,0 +1,61 @@
+polygon:hover {
+	fill: #4588e6;
+	stroke: #214373;
+  cursor:pointer;
+}
+rect:hover {
+	fill: #4588e6;
+	stroke: #214373;
+	cursor:pointer;
+}
+polyline:hover {
+	fill: none;
+	stroke: pink;
+	cursor:pointer;
+	stroke-width: 8;
+}
+
+div.svg-container {
+	width: 475px;
+	height: 400px;
+	overflow: hidden;
+	border: 1px solid #cccccc;
+  
+	user-select: none;
+	cursor: grab;
+  }
+
+  .dashed-line  {
+	stroke-dasharray: 5;
+  }
+  
+  @keyframes dash-animation {
+	to {
+	  stroke-dashoffset: 400;
+	}
+  }
+  
+  @keyframes dash-animation-opposite {
+	to {
+	  stroke-dashoffset: -400;
+	}
+  }
+  
+  .dash-move {
+	animation: dash-animation 20s infinite linear;
+  }
+  
+  .dash-move-opposite {
+	animation: dash-animation-opposite 20s infinite linear;
+  }
+  
+  
+  
+  .blink_me {
+	animation: blinker 1s linear infinite;
+  }
+  
+  @keyframes blinker {  
+	50% { opacity: 10%; }
+  } 
+  

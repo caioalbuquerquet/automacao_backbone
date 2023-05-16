@@ -41,7 +41,7 @@ while ($registro2 = mysqli_fetch_array($resultado2)) {
     }
 
 print <<<END
-{"parent_id":"$id_estacao","x":$posicao_x,"y":$posicao_y,"width":5,"height":5,"fill":"blue"},
+{"parent_id":"$id_estacao","x":$posicao_x,"y":$posicao_y,"width":5,"height":5,"fill":"green"},
 END;
 
 $count++;

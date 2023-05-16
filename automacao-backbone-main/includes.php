@@ -3,7 +3,7 @@
 function fct_consulta($query){
     $db_host = '10.5.1.42';
     $db_nome = 'siav3';
-    $db_user = 'joao';
+    $db_user = 'marlos';
     $db_pass = 'Aloo@2023';
     //$con = mysqli_connect("localhost","my_user","my_password","my_db");
     $conexao = mysqli_connect($db_host,$db_user,$db_pass,$db_nome) or die ("nao foi possivel conectar");
